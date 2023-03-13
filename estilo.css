@@ -1,0 +1,49 @@
+* {
+    background-color: darkblue;}
+
+ 
+.menudos{
+    background-color: aquamarine;
+    height: 50px;
+    width: 97%;
+    margin: 10px;
+}
+
+.uno{
+    background-color: cornflowerblue;
+    width: 97%;
+    height: 300px;
+    flex-direction: column;
+    margin: 10px;
+}
+.dos{
+    background-color: crimson;
+    height: 300px;
+    width: 97%;
+    flex-direction: column;
+    margin: 10px;
+}
+.tres{
+    background-color: darkorange;
+    height: 50px;
+    width: 97%;
+    flex-direction: column;
+    margin: 10px;
+}
+.cuatro{
+    background-color: aqua;
+    width: 97%;
+    height: 100%;
+    flex-direction: column;
+    margin: 10px;
+}
+.izquierda{
+    width: 70%;
+    height: 100px;
+    background-color: azure;
+}
+.derecha{
+    width:30% ;
+    height: 100px;
+    
+}
